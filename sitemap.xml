@@ -3,7 +3,13 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
 >
-  <!-- 产品页面 -->
+  <!-- Homepage -->
+  <url><loc>https://www.structra.site</loc></url>
+ 
+  <!-- Presentation Templates -->
+  <url><loc>https://www.structra.site/?section=c3Q2QTafrhD1UK3MCNwZvQ%3D%3D</loc></url>
+  <!-- Products -->
+  <url><loc>https://www.structra.site/l/BI-T2506</loc></url>
   <url><loc>https://www.structra.site/l/BC-R2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-O2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-Y2505</loc></url>
@@ -14,26 +20,17 @@
   <url><loc>https://www.structra.site/l/BC-P2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-K2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-C2505</loc></url>
+   
+  <!-- Notion Templates & Other Toolkits -->
+  <url><loc>https://www.structra.site/?section=tooXBTy1AZ3RYH_V-JyVrg%3D%3D</loc></url>
+  <!-- Products -->
+  <url><loc>https://www.structra.site/l/NT-S2506</loc></url>
   <url><loc>https://www.structra.site/l/EL-I2506</loc></url>
   <url><loc>https://www.structra.site/l/KD-D2506</loc></url>
   <url><loc>https://www.structra.site/l/NT-T2506</loc></url>
   <url><loc>https://www.structra.site/l/NT-H2506</loc></url>
-  <url><loc>https://www.structra.site/l/BI-T2506</loc></url>
-  <url><loc>https://www.structra.site/l/NT-S2506</loc></url>
-
-  <!-- 其他页面 -->
-  <url><loc>https://www.structra.site/?section=c3Q2QTafrhD1UK3MCNwZvQ%3D%3D</loc></url>
-
-  <url><loc>https://www.structra.site/?section=c3Q2QTafrhD1UK3MCNwZvQ==#c3Q2QTafrhD1UK3MCNwZvQ==</loc></url>
-
-  <url><loc>https://www.structra.site/?section=dv2ITCeJBfEGNSLsJ2GCfw==#dv2ITCeJBfEGNSLsJ2GCfw==</loc></url>
-
-  <url><loc>https://www.structra.site/?section=tooXBTy1AZ3RYH_V-JyVrg%3D%3D</loc></url>
-
-  <url><loc>https://www.structra.site/?section=tooXBTy1AZ3RYH_V-JyVrg==#tooXBTy1AZ3RYH_V-JyVrg==</loc></url>
-
-  <url><loc>https://www.structra.site/?section=URD5XF179pGYrchZCtWW-g==#URD5XF179pGYrchZCtWW-g==</loc></url>
-
+  
+  <!-- Terms of Use -->
   <url><loc>https://www.structra.site/?section=F4KRpRGCYgiKoLxm1pgAow%3D%3D</loc></url>
 
 </urlset>
