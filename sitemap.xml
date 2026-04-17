@@ -23,15 +23,17 @@
   <url><loc>https://www.structra.site/l/BC-A2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-E2505</loc></url>
   <url><loc>https://www.structra.site/l/BC-F2505</loc></url>
-  <url><loc>https://www.structra.site/l/CT-PTL25</loc></url>
    
-  <!-- Content & Project Systems -->
-  <url><loc>https://link.structra.site/Content-Project-Systems</loc></url>
+  <!-- Work Efficiency Toolkits -->
+  <url><loc>https://link.structra.site/Work-Efficiency-Toolkits</loc></url>
   <!-- Products -->
   <url><loc>https://www.structra.site/l/NT-S2506</loc></url>
   <url><loc>https://www.structra.site/l/NT-A2507</loc></url>
   <url><loc>https://www.structra.site/l/NT-G2507</loc></url>
+  <url><loc>https://www.structra.site/l/NT-P2603</loc></url>
   <url><loc>https://www.structra.site/l/NT-D2603</loc></url>
+  <url><loc>https://www.structra.site/l/NT-J2604</loc></url>
+  
   <!-- Smart Life Kits -->
   <url><loc>https://link.structra.site/Smart-Life-Kits</loc></url>
   <!-- Products -->  
@@ -42,7 +44,13 @@
   <url><loc>https://www.structra.site/l/NT-L2509</loc></url>
   <url><loc>https://www.structra.site/l/NT-G2511</loc></url>
 
+   <!-- Custom Service -->
+  <url><loc>https://link.structra.site/Custom-Service</loc></url>
+  <!-- Products -->  
+  <url><loc>https://www.structra.site/l/CT-PTL25</loc></url>
+  <url><loc>https://www.structra.site/l/BC-P2604</loc></url>
+  
   <!-- Terms of Use -->
-  <url><loc>https://link.structra.site/terms</loc></url>
+  <url><loc>https://www.structra.site/terms</loc></url>
 
 </urlset>
